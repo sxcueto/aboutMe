@@ -1,0 +1,33 @@
+/*about me section*/
+.caption {
+    font-size: 13px;
+}
+
+.facts-title {
+    font-size: 15px;
+}
+
+h1 {
+    font-family: Cambria;
+    color: #98bff7;
+    font-weight: 300;
+}
+
+img {
+    max-width: 275px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: azure;
+    text-align: center;
+}
+
+.fun-list{
+    font-family: Cambria;
+    font-size: 12.7px;
+}
+/* for education section */
+
+
+/* for job section */
